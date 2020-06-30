@@ -32,3 +32,17 @@
     icon = "linkedin"
     title = "LinkedIn"
     weight = 4
+
+[[socials]]
+    id = "instagram"
+    url = "https://www.instagram.com/bigdaddycartar/"
+    icon = "instagram"
+    title = "Instagram"
+    weight = 5
+
+[[socials]]
+    id = "youtube"
+    url = "https://www.youtube.com/channel/UCae_QkvFescIGnG07dAY-nA/"
+    icon = "youtube"
+    title = "YouTube"
+    weight = 6
